@@ -1,2 +1,2 @@
 # coalition
-A project created for a test
+A project created for a career opportunity
